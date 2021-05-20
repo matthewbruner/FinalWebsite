@@ -7,7 +7,7 @@
       "uuidString" : "301077FD-6587-4DAE-808A-231B715466F3"
     }
   ],
-  "creatorBuild" : "34018",
+  "creatorBuild" : "34127",
   "files" : {
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
@@ -20,6 +20,149 @@
       "oAP" : "\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/deploy\/img\/exhibit\/greg-gollin-i3srrRDsJEs-unsplash-2-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 498325,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/greg-gollin-i3srrRDsJEs-unsplash-2-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/jackie-park-DzGX0iLcZ8s-unsplash-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 649715,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/jackie-park-DzGX0iLcZ8s-unsplash-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/lady-bugz-b86sAfrdDMw-unsplash-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 1806660,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/lady-bugz-b86sAfrdDMw-unsplash-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/pascal-mauerhofer-nXUN1wFZ60A-unsplash-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 400886,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/pascal-mauerhofer-nXUN1wFZ60A-unsplash-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/pexels-bahadir-yeniceri-6904944-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 497574,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/pexels-bahadir-yeniceri-6904944-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/pexels-bogdan-glisik-1466592-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 347433,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/pexels-bogdan-glisik-1466592-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/pexels-cindy-gustafson-675313-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 482548,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/pexels-cindy-gustafson-675313-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/pexels-nilina-584165-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 1134082,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/pexels-nilina-584165-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/pexels-pixabay-38280-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 919636,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/pexels-pixabay-38280-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/pexels-richard-verbeek-572861-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 902857,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/pexels-richard-verbeek-572861-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/pexels-zoosnow-2577662-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 256951,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/pexels-zoosnow-2577662-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/img\/footer\/facebook.svg" : {
       "ft" : 2097152,
@@ -51,12 +194,12 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/hero-2\/hero.jpg" : {
+    "\/deploy\/img\/Hero1\/pexels-zoosnow-1680214-2.jpg" : {
       "ft" : 16384,
-      "iS" : 96833,
+      "iS" : 959590,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero-2\/hero.jpg",
+      "oAP" : "\/deploy\/img\/Hero1\/pexels-zoosnow-1680214-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -64,12 +207,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/history\/hero.jpg" : {
+    "\/deploy\/img\/Hero2\/daiga-ellaby-Sg_OwwU2Z9o-unsplash-2.jpg" : {
       "ft" : 16384,
-      "iS" : 15971,
+      "iS" : 1276979,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/history\/hero.jpg",
+      "oAP" : "\/deploy\/img\/Hero2\/daiga-ellaby-Sg_OwwU2Z9o-unsplash-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -77,12 +220,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/skills\/robot.jpg" : {
+    "\/deploy\/img\/Hero2\/pexels-jamshed-ahmad-1316297-2-2.jpg" : {
       "ft" : 16384,
-      "iS" : 122546,
+      "iS" : 628135,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/skills\/robot.jpg",
+      "oAP" : "\/deploy\/img\/Hero2\/pexels-jamshed-ahmad-1316297-2-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -90,12 +233,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/skynet\/gallery-1.jpg" : {
+    "\/deploy\/img\/Hero2\/pexels-jimmy-chan-1000529-2.jpg" : {
       "ft" : 16384,
-      "iS" : 163011,
+      "iS" : 1329447,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-1.jpg",
+      "oAP" : "\/deploy\/img\/Hero2\/pexels-jimmy-chan-1000529-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -103,12 +246,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/skynet\/gallery-2.jpg" : {
+    "\/deploy\/img\/Hero2\/pexels-julissa-helmuth-3333554-2.jpg" : {
       "ft" : 16384,
-      "iS" : 100411,
+      "iS" : 830981,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-2.jpg",
+      "oAP" : "\/deploy\/img\/Hero2\/pexels-julissa-helmuth-3333554-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -116,51 +259,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/skynet\/gallery-3.jpg" : {
+    "\/deploy\/img\/parkschedule\/mehmet-turgut-kirkgoz-uieffJ_xHzk-unsplash-2.jpg" : {
       "ft" : 16384,
-      "iS" : 70439,
+      "iS" : 2096237,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-3.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-4.jpg" : {
-      "ft" : 16384,
-      "iS" : 170027,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-4.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-5.jpg" : {
-      "ft" : 16384,
-      "iS" : 47796,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-5.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-6.jpg" : {
-      "ft" : 16384,
-      "iS" : 115782,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-6.jpg",
+      "oAP" : "\/deploy\/img\/parkschedule\/mehmet-turgut-kirkgoz-uieffJ_xHzk-unsplash-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -187,52 +291,68 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/design\/.structure-tags.sketch.icloud" : {
+    "\/design\/structure-tags.sketch" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/.structure-tags.sketch.icloud",
+      "oAP" : "\/design\/structure-tags.sketch",
       "oF" : 0
     },
-    "\/dev\/content\/hero-2.kit" : {
+    "\/dev\/content\/exhibit.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/exhibit.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/exhibit.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/hero-2.html",
+      "oAP" : "\/dev\/content\/exhibit.html",
       "oF" : 0
     },
-    "\/dev\/content\/hero.kit" : {
+    "\/dev\/content\/Hero1.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/Hero1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/Hero1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/hero.html",
+      "oAP" : "\/dev\/content\/Hero1.html",
       "oF" : 0
     },
-    "\/dev\/content\/history.kit" : {
+    "\/dev\/content\/Hero2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/history.html",
+      "oAP" : "\/dev\/content\/Hero2.html",
       "oF" : 0
     },
-    "\/dev\/content\/skills.kit" : {
+    "\/dev\/content\/parkschedule.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/parkschedule.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/parkschedule.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/skills.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/skynet.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/skynet.html",
+      "oAP" : "\/dev\/content\/parkschedule.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -426,6 +546,62 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/sections\/_exhibit.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_exhibit.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_Hero1.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_Hero1.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_Hero2.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_Hero2.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_parkschedule.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_parkschedule.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -439,6 +615,25 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     }
   },
   "hooks" : [
@@ -449,7 +644,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 638898965.76008201,
-    "displayValue" : "content complete",
+    "displayValue" : "Week2NewestVersion",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0
@@ -2505,6 +2700,9 @@
       "removeVariables" : 0,
       "safelistEntries" : [
 
+      ],
+      "skippedEntries" : [
+        "node_modules\/**"
       ]
     },
     "rollupContext" : "",
@@ -2539,6 +2737,7 @@
     "tsNoImplicitThis" : 0,
     "tsNoImplicitUseStrict" : 0,
     "tsNoLib" : 0,
+    "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
     "tsNoStrictGenericChecks" : 0,
     "tsNoUncheckedIndexAccess" : 0,
