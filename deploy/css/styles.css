@@ -2,6 +2,7 @@
     Mixins
 ============= */
 /* ---------------- Font Sizing ---------------- */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 html {
   font-size: 100%;
 }
@@ -352,9 +353,38 @@ template {
 /* =============
     Base
 ============= */
+ul {
+  margin: 0;
+  padding: 0;
+  background-color: royalblue;
+}
+ul li {
+  list-style: none;
+}
+
+.hidden {
+  display: none;
+}
+
 /* =============
     Typography
 ============= */
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+}
+
+li {
+  font-family: "Roboto", sans-serif;
+}
+
 /* =============
     Buttons
 ============= */
@@ -385,3 +415,16 @@ textarea {
 /* =============
     Footer
 ============= */
+#exhibit ul li {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 16px;
+  grid-template-areas: "n1 n2 n3";
+  color: #CC6D4B;
+}
+
+#exhibit {
+  display: grid;
+  grid-template-columns: auto 1024 auto;
+  grid-template-areas: ". Hero1 .";
+}

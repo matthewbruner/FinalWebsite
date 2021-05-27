@@ -21,12 +21,12 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/exhibit\/greg-gollin-i3srrRDsJEs-unsplash-2-2.jpg" : {
+    "\/deploy\/img\/exhibit\/GorillaLookinAhh.jpg" : {
       "ft" : 16384,
-      "iS" : 498325,
+      "iS" : 85849,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/exhibit\/greg-gollin-i3srrRDsJEs-unsplash-2-2.jpg",
+      "oAP" : "\/deploy\/img\/exhibit\/GorillaLookinAhh.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -40,19 +40,6 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/exhibit\/jackie-park-DzGX0iLcZ8s-unsplash-2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/exhibit\/lady-bugz-b86sAfrdDMw-unsplash-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 1806660,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/exhibit\/lady-bugz-b86sAfrdDMw-unsplash-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -138,12 +125,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/exhibit\/pexels-richard-verbeek-572861-2.jpg" : {
+    "\/deploy\/img\/exhibit\/pexels-zoosnow-2577662-2.jpg" : {
       "ft" : 16384,
-      "iS" : 902857,
+      "iS" : 256951,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/exhibit\/pexels-richard-verbeek-572861-2.jpg",
+      "oAP" : "\/deploy\/img\/exhibit\/pexels-zoosnow-2577662-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -151,12 +138,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/exhibit\/pexels-zoosnow-2577662-2.jpg" : {
+    "\/deploy\/img\/exhibit\/Tigeer.jpg" : {
       "ft" : 16384,
-      "iS" : 256951,
+      "iS" : 122350,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/exhibit\/pexels-zoosnow-2577662-2.jpg",
+      "oAP" : "\/deploy\/img\/exhibit\/Tigeer.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/Zoobruh.jpg" : {
+      "ft" : 16384,
+      "iS" : 98553,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/Zoobruh.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -297,14 +297,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/design\/structure-tags.sketch",
-      "oF" : 0
-    },
-    "\/dev\/content\/exhibit.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/exhibit.html",
       "oF" : 0
     },
     "\/dev\/content\/exhibit.kit" : {
