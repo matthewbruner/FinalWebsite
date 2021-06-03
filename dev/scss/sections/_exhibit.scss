@@ -1,10 +1,35 @@
 #exhibit{
+<<<<<<< Updated upstream
     ul li{
+=======
+    ul img{
+>>>>>>> Stashed changes
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 16px;
         grid-template-areas: "n1 n2 n3";
+<<<<<<< Updated upstream
         color: #CC6D4B;
 
     }
+=======
+    
+        
+
+    }
+
+    
+    background-color: chocolate;
+
+    ul li {
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    } 
+       
+
+    
+>>>>>>> Stashed changes
 }

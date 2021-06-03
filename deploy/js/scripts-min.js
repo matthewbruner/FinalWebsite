@@ -1,0 +1,1 @@
+!function(t){"use strict";function n(t){return t&&"object"==typeof t&&"default"in t?t:{default:t}}var a=n(t);let e=a.default("nav[data-nav]"),u=!1;a.default(".nav-btns").on("click",(function(){!1===u?(e.show(),u=!0):(e.hide(),u=!1)}))}($);

@@ -82,7 +82,7 @@ pre {
  * Remove the gray background on active links in IE 10.
  */
 a {
-  background-color: transparent;
+  background-color: royalblue;
 }
 
 /**
@@ -353,19 +353,40 @@ template {
 /* =============
     Base
 ============= */
+<<<<<<< Updated upstream
 ul {
+=======
+<<<<<<< Updated upstream
+=======
+section {
+>>>>>>> Stashed changes
   margin: 0;
   padding: 0;
   background-color: royalblue;
 }
+<<<<<<< Updated upstream
 ul li {
   list-style: none;
 }
 
+=======
+section li {
+  list-style: none;
+}
+
+exhibit.kit {
+  background-color: #CC6D4B;
+}
+
+>>>>>>> Stashed changes
 .hidden {
   display: none;
 }
 
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 /* =============
     Typography
 ============= */
@@ -415,11 +436,21 @@ textarea {
 /* =============
     Footer
 ============= */
+<<<<<<< Updated upstream
 #exhibit ul li {
+=======
+<<<<<<< Updated upstream
+=======
+#exhibit {
+  background-color: chocolate;
+}
+#exhibit ul img {
+>>>>>>> Stashed changes
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 16px;
   grid-template-areas: "n1 n2 n3";
+<<<<<<< Updated upstream
   color: #CC6D4B;
 }
 
@@ -428,3 +459,21 @@ textarea {
   grid-template-columns: auto 1024 auto;
   grid-template-areas: ". Hero1 .";
 }
+=======
+}
+#exhibit ul li {
+  color: white;
+}
+#exhibit h1 {
+  color: white;
+}
+
+#hero2 {
+  background-image: "tigersbackground";
+}
+
+#parkschedule {
+  background-image: "img/parkschedule/Giraffes.jpg";
+}
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes

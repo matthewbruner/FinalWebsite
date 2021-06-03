@@ -21,12 +21,27 @@
       "oF" : 0,
       "pg" : 0
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/exhibit\/GorillaLookinAhh.jpg" : {
       "ft" : 16384,
       "iS" : 85849,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/exhibit\/GorillaLookinAhh.jpg",
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/footer\/facebook.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/footer\/facebook.svg",
+=======
+    "\/deploy\/img\/exhibit\/Baboon.jpg" : {
+      "ft" : 16384,
+      "iS" : 86078,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/Baboon.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -34,12 +49,57 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/exhibit\/Bear.jpg" : {
+      "ft" : 16384,
+      "iS" : 87879,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/Bear.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/exhibit\/Bunny.jpg" : {
+      "ft" : 16384,
+      "iS" : 91026,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/Bunny.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+<<<<<<< Updated upstream
     "\/deploy\/img\/exhibit\/jackie-park-DzGX0iLcZ8s-unsplash-2.jpg" : {
       "ft" : 16384,
       "iS" : 649715,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/exhibit\/jackie-park-DzGX0iLcZ8s-unsplash-2.jpg",
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/footer\/instagram.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/footer\/instagram.svg",
+=======
+    "\/deploy\/img\/exhibit\/Butterfly.jpg" : {
+      "ft" : 16384,
+      "iS" : 120007,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/Butterfly.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -47,12 +107,29 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/exhibit\/pascal-mauerhofer-nXUN1wFZ60A-unsplash-2.jpg" : {
       "ft" : 16384,
       "iS" : 400886,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/exhibit\/pascal-mauerhofer-nXUN1wFZ60A-unsplash-2.jpg",
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/footer\/twitter.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/footer\/twitter.svg",
+=======
+    "\/deploy\/img\/exhibit\/Eagle.jpg" : {
+      "ft" : 16384,
+      "iS" : 82123,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/Eagle.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -73,12 +150,29 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/exhibit\/pexels-bogdan-glisik-1466592-2.jpg" : {
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/hero-2\/hero.jpg" : {
+>>>>>>> Stashed changes
       "ft" : 16384,
       "iS" : 347433,
       "jF" : 0,
       "oA" : 0,
+<<<<<<< Updated upstream
       "oAP" : "\/deploy\/img\/exhibit\/pexels-bogdan-glisik-1466592-2.jpg",
+=======
+      "oAP" : "\/deploy\/img\/hero-2\/hero.jpg",
+=======
+    "\/deploy\/img\/exhibit\/GorillaLookinAhh.jpg" : {
+      "ft" : 16384,
+      "iS" : 85849,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/GorillaLookinAhh.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -86,12 +180,29 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/exhibit\/pexels-cindy-gustafson-675313-2.jpg" : {
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/history\/hero.jpg" : {
+>>>>>>> Stashed changes
       "ft" : 16384,
       "iS" : 482548,
       "jF" : 0,
       "oA" : 0,
+<<<<<<< Updated upstream
       "oAP" : "\/deploy\/img\/exhibit\/pexels-cindy-gustafson-675313-2.jpg",
+=======
+      "oAP" : "\/deploy\/img\/history\/hero.jpg",
+=======
+    "\/deploy\/img\/exhibit\/Lemur.jpg" : {
+      "ft" : 16384,
+      "iS" : 102696,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/Lemur.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -99,12 +210,29 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/exhibit\/pexels-nilina-584165-2.jpg" : {
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/skills\/robot.jpg" : {
+>>>>>>> Stashed changes
       "ft" : 16384,
       "iS" : 1134082,
       "jF" : 0,
       "oA" : 0,
+<<<<<<< Updated upstream
       "oAP" : "\/deploy\/img\/exhibit\/pexels-nilina-584165-2.jpg",
+=======
+      "oAP" : "\/deploy\/img\/skills\/robot.jpg",
+=======
+    "\/deploy\/img\/exhibit\/Leopard.jpg" : {
+      "ft" : 16384,
+      "iS" : 94040,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/Leopard.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -112,12 +240,29 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/exhibit\/pexels-pixabay-38280-2.jpg" : {
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/skynet\/gallery-1.jpg" : {
+>>>>>>> Stashed changes
       "ft" : 16384,
       "iS" : 919636,
       "jF" : 0,
       "oA" : 0,
+<<<<<<< Updated upstream
       "oAP" : "\/deploy\/img\/exhibit\/pexels-pixabay-38280-2.jpg",
+=======
+      "oAP" : "\/deploy\/img\/skynet\/gallery-1.jpg",
+=======
+    "\/deploy\/img\/exhibit\/lizard.jpg" : {
+      "ft" : 16384,
+      "iS" : 78835,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibit\/lizard.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -151,12 +296,59 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/exhibit\/Zoobruh.jpg" : {
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/skynet\/gallery-4.jpg" : {
+>>>>>>> Stashed changes
       "ft" : 16384,
       "iS" : 98553,
       "jF" : 0,
       "oA" : 0,
+<<<<<<< Updated upstream
       "oAP" : "\/deploy\/img\/exhibit\/Zoobruh.jpg",
+=======
+      "oAP" : "\/deploy\/img\/skynet\/gallery-4.jpg",
+=======
+    "\/deploy\/img\/footer\/facebook.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/footer\/facebook.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/footer\/instagram.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/footer\/instagram.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/footer\/twitter.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/footer\/twitter.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Hero1\/Flamingos.jpg" : {
+      "ft" : 16384,
+      "iS" : 579053,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Hero1\/Flamingos.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -164,6 +356,7 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/footer\/facebook.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -195,11 +388,27 @@
       "prP" : 0
     },
     "\/deploy\/img\/Hero1\/pexels-zoosnow-1680214-2.jpg" : {
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/skynet\/gallery-5.jpg" : {
+>>>>>>> Stashed changes
       "ft" : 16384,
       "iS" : 959590,
       "jF" : 0,
       "oA" : 0,
+<<<<<<< Updated upstream
       "oAP" : "\/deploy\/img\/Hero1\/pexels-zoosnow-1680214-2.jpg",
+=======
+      "oAP" : "\/deploy\/img\/skynet\/gallery-5.jpg",
+=======
+    "\/deploy\/img\/Hero2\/CurrentExhibits.jpg" : {
+      "ft" : 16384,
+      "iS" : 141950,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Hero2\/CurrentExhibits.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -207,11 +416,17 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/Hero2\/daiga-ellaby-Sg_OwwU2Z9o-unsplash-2.jpg" : {
+=======
+<<<<<<< Updated upstream
+    "\/deploy\/img\/skynet\/gallery-6.jpg" : {
+>>>>>>> Stashed changes
       "ft" : 16384,
       "iS" : 1276979,
       "jF" : 0,
       "oA" : 0,
+<<<<<<< Updated upstream
       "oAP" : "\/deploy\/img\/Hero2\/daiga-ellaby-Sg_OwwU2Z9o-unsplash-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
@@ -226,6 +441,16 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/Hero2\/pexels-jamshed-ahmad-1316297-2-2.jpg",
+=======
+      "oAP" : "\/deploy\/img\/skynet\/gallery-6.jpg",
+=======
+    "\/deploy\/img\/Hero2\/MeetTheAnimals.jpg" : {
+      "ft" : 16384,
+      "iS" : 83737,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Hero2\/MeetTheAnimals.jpg",
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -233,12 +458,21 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/Hero2\/pexels-jimmy-chan-1000529-2.jpg" : {
       "ft" : 16384,
       "iS" : 1329447,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/Hero2\/pexels-jimmy-chan-1000529-2.jpg",
+=======
+    "\/deploy\/img\/Hero2\/Membership.jpg" : {
+      "ft" : 16384,
+      "iS" : 106176,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Hero2\/Membership.jpg",
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -246,12 +480,21 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/Hero2\/pexels-julissa-helmuth-3333554-2.jpg" : {
       "ft" : 16384,
       "iS" : 830981,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/Hero2\/pexels-julissa-helmuth-3333554-2.jpg",
+=======
+    "\/deploy\/img\/Hero2\/TigerBackground.jpg" : {
+      "ft" : 16384,
+      "iS" : 1174516,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Hero2\/TigerBackground.jpg",
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -259,12 +502,22 @@
       "q" : 100,
       "rq" : 75
     },
+<<<<<<< Updated upstream
     "\/deploy\/img\/parkschedule\/mehmet-turgut-kirkgoz-uieffJ_xHzk-unsplash-2.jpg" : {
       "ft" : 16384,
       "iS" : 2096237,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/parkschedule\/mehmet-turgut-kirkgoz-uieffJ_xHzk-unsplash-2.jpg",
+=======
+    "\/deploy\/img\/parkschedule\/Giraffes.jpg" : {
+      "ft" : 16384,
+      "iS" : 779762,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/parkschedule\/Giraffes.jpg",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -304,23 +557,47 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
+<<<<<<< Updated upstream
       "oAP" : "\/dev\/content\/exhibit.html",
+=======
+<<<<<<< Updated upstream
+      "oAP" : "\/dev\/content\/hero-2.html",
+>>>>>>> Stashed changes
       "oF" : 0
+=======
+      "oAP" : "\/dev\/content\/exhibit.html",
+      "oF" : 1
+>>>>>>> Stashed changes
     },
     "\/dev\/content\/Hero1.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
+<<<<<<< Updated upstream
       "oA" : 0,
       "oAP" : "\/dev\/content\/Hero1.html",
+=======
+      "oA" : 1,
+<<<<<<< Updated upstream
+      "oAP" : "\/dev\/content\/hero.html",
+>>>>>>> Stashed changes
       "oF" : 0
+=======
+      "oAP" : "\/dev\/content\/Hero1.html",
+      "oF" : 1
+>>>>>>> Stashed changes
     },
     "\/dev\/content\/Hero1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
+<<<<<<< Updated upstream
       "oAP" : "\/dev\/content\/Hero1.html",
+=======
+<<<<<<< Updated upstream
+      "oAP" : "\/dev\/content\/history.html",
+>>>>>>> Stashed changes
       "oF" : 0
     },
     "\/dev\/content\/Hero2.kit" : {
@@ -330,6 +607,10 @@
       "oA" : 1,
       "oAP" : "\/dev\/content\/Hero2.html",
       "oF" : 0
+=======
+      "oAP" : "\/dev\/content\/Hero2.html",
+      "oF" : 1
+>>>>>>> Stashed changes
     },
     "\/dev\/content\/parkschedule.html" : {
       "cB" : 0,
@@ -344,8 +625,17 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
+<<<<<<< Updated upstream
       "oAP" : "\/dev\/content\/parkschedule.html",
+=======
+<<<<<<< Updated upstream
+      "oAP" : "\/dev\/content\/skynet.html",
+>>>>>>> Stashed changes
       "oF" : 0
+=======
+      "oAP" : "\/dev\/content\/parkschedule.html",
+      "oF" : 1
+>>>>>>> Stashed changes
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
@@ -388,7 +678,7 @@
       "oF" : 2
     },
     "\/dev\/js\/scripts.js" : {
-      "bF" : 0,
+      "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
