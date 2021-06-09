@@ -3,23 +3,4 @@
     display: grid;
     grid-template-columns: auto 1024 auto;
     grid-template-areas: ". Hero1 ."
-    
-
-#hero1{
-
-    background-color: $bluegreen;
-    #flamingos_image{
-    
-    background-position: center;
-    background-size: cover;
-    
-    >h1{
-        color: $white;
-    }
-
-    
-
-    
-}
-
     }
