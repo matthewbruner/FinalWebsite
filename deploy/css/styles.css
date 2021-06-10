@@ -383,6 +383,10 @@ h2 {
   font-family: "Roboto", sans-serif;
 }
 
+h3 {
+  font-family: "Roboto", sans-serif;
+}
+
 li {
   font-family: "Roboto", sans-serif;
 }
@@ -418,6 +422,11 @@ textarea {
 /* =============
     Header
 ============= */
+#header {
+  background-color: white;
+  color: royalblue;
+}
+
 #navigation {
   display: grid;
   grid-template-columns: 16px auto 60%;
@@ -500,6 +509,7 @@ footer {
 }
 
 #exhibit {
+  color: white;
   background-color: chocolate;
 }
 #exhibit ul li ul img {
@@ -517,18 +527,18 @@ footer {
 }
 
 #hero1 {
+  background-image: " Flamingos ";
   background-color: royalblue;
   color: white;
   display: grid;
-  grid-template-columns: auto 1024 auto;
-  grid-template-areas: ". Hero1 .";
 }
 
 #hero2 {
-  background-color: seagreen;
-  background-image: "tigersbackground";
+  background-color: #49d486;
+  color: white;
 }
 
 #parkschedule {
-  background-color: coral;
+  background-color: #ffa685;
+  color: white;
 }
