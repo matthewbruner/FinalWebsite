@@ -82,7 +82,7 @@ pre {
  * Remove the gray background on active links in IE 10.
  */
 a {
-  background-color: royalblue;
+  background-color: transparent;
 }
 
 /**
@@ -353,40 +353,21 @@ template {
 /* =============
     Base
 ============= */
-<<<<<<< Updated upstream
-ul {
-=======
-<<<<<<< Updated upstream
-=======
-section {
->>>>>>> Stashed changes
+ul section {
   margin: 0;
   padding: 0;
   background-color: royalblue;
 }
-<<<<<<< Updated upstream
-ul li {
+ul section li {
   list-style: none;
 }
-
-=======
-section li {
-  list-style: none;
-}
-
-exhibit.kit {
+ul exhibit.kit {
   background-color: #CC6D4B;
 }
-
->>>>>>> Stashed changes
-.hidden {
+ul .hidden {
   display: none;
 }
 
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 /* =============
     Typography
 ============= */
@@ -403,6 +384,10 @@ h2 {
 }
 
 li {
+  font-family: "Roboto", sans-serif;
+}
+
+article {
   font-family: "Roboto", sans-serif;
 }
 
@@ -433,33 +418,96 @@ textarea {
 /* =============
     Header
 ============= */
+#navigation {
+  display: grid;
+  grid-template-columns: 16px auto 60%;
+  grid-template-areas: ". burger ." ". nav .";
+}
+@media (min-width: 768px) {
+  #navigation {
+    grid-template-columns: 100%;
+    grid-template-areas: "nav";
+  }
+}
+#navigation #burger_container {
+  grid-area: burger;
+  font-size: 3.75rem;
+  color: chocolate;
+  margin-bottom: -60px;
+}
+@media (min-width: 768px) {
+  #navigation #burger_container {
+    display: none !important;
+  }
+}
+#navigation #nav_container {
+  grid-area: nav;
+  display: none;
+  margin-top: 60px;
+  background-color: royalblue;
+  font-family: "Roboto";
+  font-weight: 700;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+#navigation #nav_container ul {
+  height: 100%;
+}
+#navigation #nav_container ul li {
+  padding: 9px 0px;
+}
+#navigation #nav_container ul li a:link,
+#navigation #nav_container ul li a:visited {
+  color: #fff;
+  padding: 0px 0px;
+  text-decoration: none;
+  transition: 0.25s;
+}
+@media (min-width: 1024px) {
+  #navigation #nav_container ul li a:link,
+#navigation #nav_container ul li a:visited {
+    color: #fff;
+  }
+}
+#navigation #nav_container ul li a:link:hover, #navigation #nav_container ul li a:link:active,
+#navigation #nav_container ul li a:visited:hover,
+#navigation #nav_container ul li a:visited:active {
+  color: white;
+}
+@media (min-width: 768px) {
+  #navigation #nav_container {
+    display: block !important;
+    background-color: royalblue;
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding: 20px;
+  }
+  #navigation #nav_container > ul {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+
 /* =============
     Footer
 ============= */
-<<<<<<< Updated upstream
-#exhibit ul li {
-=======
-<<<<<<< Updated upstream
-=======
+footer {
+  background-color: royalblue;
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". footer .";
+}
+
 #exhibit {
   background-color: chocolate;
 }
-#exhibit ul img {
->>>>>>> Stashed changes
+#exhibit ul li ul img {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 16px;
   grid-template-areas: "n1 n2 n3";
-<<<<<<< Updated upstream
   color: #CC6D4B;
-}
-
-#exhibit {
-  display: grid;
-  grid-template-columns: auto 1024 auto;
-  grid-template-areas: ". Hero1 .";
-}
-=======
 }
 #exhibit ul li {
   color: white;
@@ -468,12 +516,19 @@ textarea {
   color: white;
 }
 
+#hero1 {
+  background-color: royalblue;
+  color: white;
+  display: grid;
+  grid-template-columns: auto 1024 auto;
+  grid-template-areas: ". Hero1 .";
+}
+
 #hero2 {
+  background-color: seagreen;
   background-image: "tigersbackground";
 }
 
 #parkschedule {
-  background-image: "img/parkschedule/Giraffes.jpg";
+  background-color: coral;
 }
->>>>>>> Stashed changes
->>>>>>> Stashed changes
